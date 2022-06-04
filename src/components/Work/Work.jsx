@@ -21,7 +21,7 @@ export default function Work() {
         <img src={byob} className="card-img-top" alt="..." />
         <div className="card-body">
           <h5 className="card-title">BYOBackpack</h5>
-          <p className="card-text">BYOBackpack is an event planning website that my team and I created. Equipped with routing, handlebars styling, and a variety of npm packages that showcase our abilities to build a dynamic website. My role on the team was to ensure that the cloudinary package was setup properly and the images were rendered properly.</p>
+          <p className="card-text">BYOBackpack is an event planning website that my team and I created. Equipped with routing, handlebars styling, and a variety of npm packages that showcase our abilities to build a dynamic website. My role on the team was to ensure that the Cloudinary package was setup properly and the images were rendered properly.</p>
           <a href="https://github.com/chuanw101/byo-backpack" target="_blank" className="btn btn-primary">Check out the repository here</a>
         </div>
       </div>
