@@ -1,0 +1,24 @@
+.photo {
+    display:flex;
+    justify-content: center;
+}
+
+.photo img {
+    border-radius: 50%;
+}
+
+#textarea {
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    height:100vh;
+}
+
+#container {
+    background: -webkit-radial-gradient(-180px 0px,circle ,#0053ad 100px,#001b85 350px,#000223);
+    color: beige;
+}

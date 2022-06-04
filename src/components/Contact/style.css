@@ -1,0 +1,48 @@
+.inputForm {
+    display:flex;
+    justify-content: center;
+    width: 50%;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+
+}
+
+#message {
+    color: beige;
+
+}
+#name {
+    color: beige;
+
+}
+#email {
+    color: beige;
+
+}
+
+.inputForm span {
+    color: beige;
+}
+
+.inputForm input {
+    color: beige;
+    background: -webkit-radial-gradient(-180px 0px,circle ,#0053ad 100px,#001b85 350px,#000223);
+}
+
+.inputForm textarea {
+    color: beige;
+    background: -webkit-radial-gradient(-180px 0px,circle ,#0053ad 100px,#001b85 350px,#000223);
+}
+
+.input-group-text {
+    background: -webkit-radial-gradient(-180px 0px,circle ,#0053ad 100px,#001b85 350px,#000223);
+}
+
+#container {
+    background: -webkit-radial-gradient(-180px 0px,circle ,#0053ad 100px,#001b85 350px,#000223);
+    color: beige;
+    
+}

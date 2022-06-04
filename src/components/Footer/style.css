@@ -1,0 +1,15 @@
+#container {
+    background: -webkit-radial-gradient(-180px 0px,circle ,#0053ad 100px,#001b85 350px,#000223);
+    color: beige;
+}
+
+#footer {
+   display:flex;
+   justify-content: center;
+   flex-direction: row;
+}
+
+#link {
+    max-width: 64px;
+    max-height: 64px;
+}
